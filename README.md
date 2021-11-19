@@ -1,4 +1,6 @@
-# ass1
+## ass1
+### Description:
+- Regeneration of spatiotemporal datasets using time samples and pixel values, making preprocessing, analysis, visualisation and evaluation of the performance based on this dataset, while investigate on the effect of using different types of regression approach during the regeneration process.
 ## Name: Huan Zhang
 ## Dependencies: 
 - Language: Python 3.8 or above
