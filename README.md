@@ -9,4 +9,4 @@
 ## Plots: 
 - all plots used in the report are saved in the folder "plots/"
 ## Report:
-- Refer to "Ass1_report.pdf": report addressing problems described in "Assignment.pdf"
+- "Ass1_report.pdf": report addressing problems described in "Assignment.pdf"
